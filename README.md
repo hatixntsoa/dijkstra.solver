@@ -44,7 +44,7 @@ pip install dijkstra-solver
 5. Install the package:
 
   ```bash
-  pip install dist/pypass_tool-*.whl
+  pip install dist/dijkstra_solver-*.whl
   ```
 
 ## Usage
