@@ -22,12 +22,12 @@ pip install dijkstra-solver
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hatixntsoa/dijkstra_solver.git
+   git clone https://github.com/hatixntsoa/dijkstra.solver.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd dijkstra_solver
+   cd dijkstra.solver
    ```
 
 3. Run the default code (just for testing):
@@ -44,7 +44,7 @@ pip install dijkstra-solver
 5. Install the package:
 
   ```bash
-  pip install dist/dijkstra_solver-*.whl
+  pip install dist/dijkstra.solver-*.whl
   ```
 
 ## Usage
